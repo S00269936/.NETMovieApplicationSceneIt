@@ -63,17 +63,6 @@ While developing Scene It I gained more experience with:
 - Filtering and sorting data
 - Handling user input and errors
 
-## Future Improvements
-
-Some features I would like to add in the future include:
-
-- Movie search
-- Movie reviews
-- Favourite movies
-- Better movie recommendations
-- Improved UI
-- Movie data from an external API
-
 ## About
 
 Scene It was developed as a college project while studying Software Development. The project was created to improve my understanding of C#, WPF, SQL and application development.
